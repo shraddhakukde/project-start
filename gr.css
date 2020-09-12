@@ -1,0 +1,8 @@
+body{
+	font:'raleway',sans-sarif;
+	color: rgba(0, 0, 0, .5);
+	text-align: center;
+	text-transform:uppercase; 
+	letter-spacing: .5em ;
+	top:15%;
+}
